@@ -1,0 +1,24 @@
+{
+    "contact": {
+        "firstName" : "Melany",
+        "lastNmae" : "Chavez",
+        "email" : "greatest@gmail.com",
+        "favoriteColor" : "Yellow",
+        "birthDay" : "05/05/2007"
+    },
+    "contact2": {
+        "firstName" : "Adela",
+        "lastNmae" : "Chavez",
+        "email" : "greatest2@gmail.com",
+        "favoriteColor" : "Yellow",
+        "birthDay" : "05/05/1965"
+    },
+    "contact3": {
+        "firstName" : "Sparky",
+        "lastNmae" : "Chavez",
+        "email" : "greatest3@gmail.com",
+        "favoriteColor" : "Blue",
+        "birthDay" : "05/05/2010"
+    }
+
+}
